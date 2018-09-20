@@ -78,7 +78,7 @@ $ tox -epep8
     MOVE       :   Move the toy robot one unit forward in the direction it is currently facing.
     LEFT       :   Rotate the robot 90 degrees left without changing the position of the robot.
     RIGHT      :   Rotate the robot 90 degrees right without changing the position of the robot.
-REPORT     :   Announce the X,Y and F of the robot.
+    REPORT     :   Announce the X,Y and F of the robot.
     ```
     NOTE: Press Ctrl+C to exit the program.
     
